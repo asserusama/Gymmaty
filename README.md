@@ -5,6 +5,8 @@
 
 Gymmaty is a comprehensive iOS application designed to help users find and explore gyms in their area. It provides essential information about each gym, including pricing options, location, and available services. Users can easily navigate through the app to discover their perfect gym match.
 
+Implemented using MVVM architecture.
+
 ## Features
 
 - **Launch Screen**: Displays the app logo and name with an animated transition to the login view.
@@ -22,19 +24,6 @@ Gymmaty is a comprehensive iOS application designed to help users find and explo
 - **ListView.swift**: Displays the list of gyms with search and sort functionalities.
 - **GymView.swift**: Provides detailed information about a selected gym.
 - **GymViewModel.swift**: Manages the logic for sorting and filtering gyms.
-
-## Usage
-
-### Launching the App
-When the app launches, users will see the logo and app name, followed by the login screen.
-
-### Navigating to the Gym List
-Upon successful login, users will be directed to the gym list view, where they can:
-- Search for specific gyms.
-- Sort gyms by distance, price, or name.
-
-### Viewing Gym Details
-Tapping on a gym in the list navigates to the detail view, showcasing images, pricing options, and the location of the gym. Users can also get directions via Apple Maps.
 
 ## Future Improvements
 
