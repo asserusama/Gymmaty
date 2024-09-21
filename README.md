@@ -13,15 +13,6 @@ Gymmaty is a comprehensive iOS application designed to help users find and explo
 - **Gym Detail View**: View detailed information about each gym, including available options and images.
 - **Location Feature**: Get directions to the gym through Apple Maps.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/gymmaty.git
-   ```
-2. Open the project in Xcode.
-3. Run the project on a simulator or a physical device.
-
 ## Code Structure
 
 - **GymData.swift**: Contains the static data model for the gyms, including their name, image, distance, price, available options, images, and location coordinates.
@@ -50,19 +41,3 @@ Tapping on a gym in the list navigates to the detail view, showcasing images, pr
 - Integrate user accounts for personalized gym recommendations.
 - Allow gym owners to update their gym information directly through the app.
 - Implement payment and subscription features for easy access to gym services.
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to Gymmaty, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any inquiries, please contact Asser at [your-email@example.com].
-
----
-
-Feel free to customize any sections or add more details as you see fit!
