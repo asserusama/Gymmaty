@@ -7,6 +7,9 @@ Gymmaty is a comprehensive iOS application designed to help users find and explo
 
 Implemented using MVVM architecture.
 
+
+![IMG_2470](https://github.com/user-attachments/assets/e96a424f-eca8-42e3-8ea5-da9a62f92a0f)
+
 ## Features
 
 - **Launch Screen**: Displays the app logo and name with an animated transition to the login view.
