@@ -1,0 +1,45 @@
+File	Line	Type	Issue
+invest_01Tests/AddInvestorBankAccount/UseCaseTest/AddInvestorBankAccountUseCaseTest.swift	689	Property	'attachmentMediaModel' is unused
+invest_01/Shell/Modules/Product-Details/View/ProductDetailsViewController.swift	581	Function	'navigateToInvestNow()' is unused
+invest_01/Shell/Modules/Product-Details/View/ProductDetailsViewController.swift	491	Function	'navigateToInvestInProductViewController(with:)' is unused
+invest_01Tests/Invest-In-Product/UseCaseTest/InvestInProductUseCaseTest.swift	452	Function	'makeProduct(minShares:maxShares:)' is unused
+invest_01/Shell/Modules/Authorized-Investors/Use-Case/AuthorizedInvestorOptionsUseCase.swift	249	Parameter	'optionList' is unused
+invest_01/Shell/Modules/Authorized-Investors/Use-Case/AuthorizedInvestorOptionsUseCase.swift	247	Function	'authorizedInvestorOption(at:)' is unused
+invest_01/Shell/Modules/Invest-In-Product/View/InvestInProductViewController.swift	148	Property	'cancelButtonBorderColor' is unused
+invest_01/Shell/Modules/Invest-In-Product/View/InvestInProductViewController.swift	147	Property	'cancelButtonBorderWidth' is unused
+invest_01/Shell/Modules/Invest-In-Product/View/InvestInProductViewController.swift	146	Property	'cancelButtonCornerRadius' is unused
+invest_01/Shell/Modules/Product-Details/Handler/InvestButtonTapHandler.swift	109	Property	'nextHandler' is unused
+invest_01/Shell/Modules/Product-Details/Handler/InvestButtonTapHandler.swift	108	Property	'userDataStore' is unused
+invest_01/Shell/Modules/Product-Details/View/SubViews/Views/Investments-Tab/SubViews/InvestmentTransctionSubView/InvestmentTransactionView.swift	94	Parameter	'downloadSuitabilityReport' is unused
+invest_01/Shell/Modules/Product-Details/View/SubViews/Views/Investments-Tab/SubViews/InvestmentTransctionSubView/InvestmentTransactionView.swift	93	Parameter	'downloadCertificateAction' is unused
+invest_01/Shell/Modules/Investor-Bank-Account/Presenter/InvestorBankAccountPresenter.swift	90	Function	'configureBankAccountsList(with:)' is unused
+invest_01/Shell/Modules/Invest-In-Product/View/InvestInProductViewController.swift	88	Property	'paymentOptionIndex' is assigned, but never used
+invest_01/Shell/Modules/Product-Details/UseCase/ProductDetailsUseCase.swift	78	Property	'isInvestmentBlocked' is unused
+invest_01Tests/ELM/UseCaseTest/ELMIntegrationSuccessUseCaseTest.swift	69	Enum	'InvestorProfileFakeAPIError' is unused
+invest_01/Shell/Modules/Held-Investment-Payment/Use-Case/HeldInvestmentPaymentUseCase.swift	58	Property	'bankAccount' is unused
+invest_01/Shell/Modules/Account/Existing-Account/Mapper/AccountMapper.swift	50	Property	'supportAuthorizedInvestorCompleteKYCWarning' is unused
+invest_01/Shell/Modules/Investor-Bank-Account/UseCase/AddInvestorBankAccountUseCase.swift	46	Property	'isBankDataPicked' is assigned, but never used
+invest_01/Shell/Modules/Authorized-Investors/Request/AuthorizedInvestorUploadRequest.swift	39	Property	'queryBody' is unused
+invest_01/Shell/Modules/Investor-Bank-Account/Service/AddInvestorBankAccountService.swift	39	Property	'bankListsUIModel' is unused
+invest_01/Shell/Modules/Product-Details/View/SubViews/Views/InvestmentsAttachmentView/AttachmentView.swift	36	Property	'backgroundColor' is unused
+invest_01/Shell/Modules/Authorized-Investors/Use-Case/AuthorizedInvestorOptionsUseCase.swift	33	Property	'message' is assigned, but never used
+invest_01/Shell/Modules/Held-Investment-Payment/Models/HeldInvestmentPaymentModel.swift	30	Property	'createdAt' is assigned, but never used
+invest_01/Shell/Modules/Invest-In-Product/UseCase/InvestInProductUseCase.swift	30	Property	'paymentOptions' is unused
+invest_01/Shell/Modules/Held-Investment-Payment/Models/HeldInvestmentPaymentModel.swift	27	Property	'amount' is assigned, but never used
+invest_01/Shell/Modules/Product-Details/View/ProductDetailsViewController.swift	25	Function	'navigateToInvestNow()' is unused
+invest_01/Shell/Modules/Authorized-Investors/Request/AuthorizedInvestorsOptionsRequest.swift	24	Property	'queryBody' is unused
+invest_01/Shell/Modules/Investor-Bank-Account/Service/AddInvestorBankAccountService.swift	22	Struct	'AddBankAccountRequestDependencies' is unused
+invest_01Tests/AddInvestorBankAccount/UseCaseTest/AddInvestorBankAccountUseCaseTest.swift	21	Property	'isCompletionInvoked' is unused
+invest_01/Shell/Modules/Product-Details/View/ProductDetailsViewController.swift	19	Function	'navigateToInvestInProductViewController(with:)' is unused
+invest_01/Shell/Modules/Authentication/Sign-in/Models/InvestorModel.swift	18	Property	'uuid' is assigned, but never used
+invest_01/Shell/Modules/Investor-Bank-Account/Presenter/AddInvestorBankAccountPresenter.swift	18	Property	'pickedAttachment' is assigned, but never used
+invest_01/Shell/Modules/Authorized-Investors/Presenter/AuthorizedInvestorOptionsPresenter.swift	16	Property	'authorizedInvestorOptions' is assigned, but never used
+invest_01Tests/AddInvestorBankAccount/ServiceFake/AddInvestorBankAccountFakeService.swift	15	Property	'userDataStoreMock' is assigned, but never used
+invest_01/Shell/Modules/Investments/Mapper/InvestmentsMapper.swift	14	Function	'mapSharesCountToUIModel(with:)' is unused
+invest_01/Shell/Modules/Product-Details/Factory/ProductTabInvestmentsFactoryMakable.swift	14	Protocol	'ProductTabInvestmentsFactoryMakable' conformance is redundant
+invest_01Tests/AddInvestorBankAccount/ServiceFake/AddInvestorBankAccountFakeService.swift	12	Property	'bankListsUIModel' is unused
+invest_01/Shell/Modules/Held-Investment-Payment/Models/CancelHeldUnitsPayload.swift	11	Property	'message' is assigned, but never used
+invest_01/Shell/Modules/Invest-In-Product/Response/InvestInProductResponse.swift	11	Property	'canInvest' is assigned, but never used
+invest_01/Shell/Modules/Investments/Mapper/InvestmentsMapper.swift	11	Function	'mapSharesValueToUIModel(with:)' is unused
+invest_01/Shell/Modules/Product-Details/Factory/ProductTabInvestmentsFactoryMakable.swift	10	Protocol	'ProductTabInvestmentsFactoryMakable' is redundant as it's never used as an existential type
+invest_01/Shell/Modules/Checkout /Models/UI-Model/ProductInvestmentInfoUIModel.swift	10	Struct	'ProductInvestmentInfoUIModel' is unused
